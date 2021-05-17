@@ -7,7 +7,6 @@
 ### Links
 [<img style="margin-top: 15px; display: block;" id="imagen" src="https://icon-icons.com/icons2/2248/PNG/32/steam_icon_135152.png" class="lazy" data-original="https://cdn.icon-icons.com/icons2/2248/PNG/512/steam_icon_135152.png">][steam]
 [<img style="margin-top: 15px; display: block;" id="imagen" src="https://icon-icons.com/icons2/1381/PNG/32/gnometwitch_93827.png" class="lazy" data-original="https://cdn.icon-icons.com/icons2/1381/PNG/512/gnometwitch_93827.png">][Twitch]
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T821FP5)
 
 
 [steam]: https://steamcommunity.com/id/creativewild/
